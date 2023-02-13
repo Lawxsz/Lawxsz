@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Lawxsz/Lawxsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![telegram](https://img.shields.io/badge/Lawxsz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lawxsz/)&nbsp;&nbsp;&nbsp;
+<p align="justify"> 
+Welcome to my github profile 📫. I'm Law and I'm from Argentina, a 15 years old programmer. Learning and improving day by day ⚡, making tools to help the community.
+ 
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+ </td>
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+
