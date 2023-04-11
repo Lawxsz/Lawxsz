@@ -1,7 +1,7 @@
 
 [![telegram](https://img.shields.io/badge/Lawxsz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lawxsz/)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
-Welcome to my github profile 📫. I'm Law and I'm from Argentina, a 15 years old programmer. Learning and improving day by day ⚡, making tools to help the community.
+Welcome to my github profile 📫. I'm Law and I'm from Argentina, a programmer. Learning and improving day by day ⚡, making tools to help the community.
  
 
 </p>
