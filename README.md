@@ -114,5 +114,5 @@ Welcome to my github profile 📫. I'm Law and I'm from Argentina, a programmer.
 </table>
 
 # 🎫 Coding Services SEND PM 🎫
-- Lawxsz#5963
+- https://t.me/lawxszchannel
 - t.me/Lawxsz
