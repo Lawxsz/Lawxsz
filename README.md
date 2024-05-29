@@ -3,7 +3,7 @@
 <p align="justify"> 
 Welcome to my github profile 📫. I'm Law and I'm from Argentina, a programmer. Learning and improving day by day ⚡, making tools to help the community.
 
-⚡ FLASH USDT Software - ⚡ RAT Software FUD - ⚡ Stealer Software FUD - ⚡ Crypter Software - 📮 SMPT Software (With cred for scam) - @Lawxsz Telegram for buy
+⚡ FLASH USDT Software - ⚡ RAT Software FUD - ⚡ Stealer Software FUD - ⚡ Crypter Software - 📮 SMPT Software (With cred for scam) - https://t.me/lawxsz Telegram for buy
 
 </p>
 
