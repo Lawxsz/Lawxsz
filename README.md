@@ -14,7 +14,7 @@ Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Arg
 
 ## 🌐 **Connect with me**:
 - **Telegram**: [@Lawxsz](https://t.me/Lawxsz)
-- **Discord**: `lawxsz`
+- **Discord**: `lawxszoficialdisxd`
 
 ---
 
