@@ -5,7 +5,7 @@
 Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Argentina**. I specialize in creating powerful tools and software that help the community. Passionate about **pentesting**, **botnets**, and **exploit development**, I'm constantly learning and refining my skills every day. 🚀
 
 ### 🛠️ **Tech Stack**:
-- **Programming Languages**: `C++`, `C#`, `Python`, `JavaScript`
+- **Programming Languages**: `C++`, `C#`, `Python`, `JavaScript, PHP`
 - **Cybersecurity Expertise**: Penetration Testing, Exploits, Botnets, Malware Development
 - **Full-Stack Development**: Frontend, Backend, and everything in between
 - **Tools & Frameworks**: Metasploit, Nmap, Burp Suite, and more!
