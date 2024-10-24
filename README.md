@@ -31,6 +31,8 @@ Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Arg
 
 🔑 **[Osint Tool's (Logs Finder)](https://github.com/Lawxsz/log-finder)**
 
+🔑 **[Osint Telegram Bot (Logs Finder User-Admin)](https://github.com/Lawxsz/osint-bot)**
+
 💻 **[Python code obfuscation tool](https://github.com/Lawxsz/Py-obfuscator)**
 
 💻 **[Tool to evade sandboxes, virtual machines and antivirus](https://github.com/Lawxsz/bypass-virus-total)**
