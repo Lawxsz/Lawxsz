@@ -48,7 +48,7 @@ Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Arg
 
 
 📬 Want to buy or request services?  
-[![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszchannel)
+[![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszdev)
 
 ---
 
@@ -72,4 +72,4 @@ Feel free to PM me for custom software or coding requests!
 
 ### 📬 **Stay updated**:  
 Join my Telegram channel for updates on my latest tools and services!  
-[![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszchannel)
+[![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszdev)
