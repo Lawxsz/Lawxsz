@@ -2,13 +2,28 @@
 
 [![telegram](https://img.shields.io/badge/Lawxsz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lawxsz)&nbsp;&nbsp;&nbsp;
 
-Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Argentina**. I specialize in creating powerful tools and software that help the community. Passionate about **pentesting**, **botnets**, and **exploit development**, I'm constantly learning and refining my skills every day. 🚀
+Hello! I'm **Law**, a passionate cybersecurity enthusiast and full-stack developer based in **Argentina**. I focus on creating innovative tools and software aimed at enhancing community security and efficiency. With a keen interest in **penetration testing**, **botnets**, and **exploit development**, I continuously strive to expand my knowledge and refine my skill set. 🚀
 
 ### 🛠️ **Tech Stack**:
-- **Programming Languages**: `C++`, `C#`, `Python`, `JavaScript, PHP`
-- **Cybersecurity Expertise**: Penetration Testing, Exploits, Botnets, Malware Development
-- **Full-Stack Development**: Frontend, Backend, and everything in between
-- **Tools & Frameworks**: Metasploit, Nmap, Burp Suite, and more!
+- **Programming Languages**: `C++`, `C#`, `Python`, `JavaScript`, `PHP`, `Bash`
+- **Cybersecurity Expertise**: 
+  - Penetration Testing: Proficient in testing applications and networks for vulnerabilities.
+  - Malware Analysis: Skilled in analyzing and reverse-engineering malicious software.
+  - Network Security: Knowledgeable in securing networks and mitigating threats.
+  - Exploit Development: Capable of developing exploits for known vulnerabilities.
+  - Incident Response: Experienced in responding to security breaches and incidents.
+  - DDoS Attacks: Experience in executing and mitigating Distributed Denial of Service attacks.
+  - Botnets: Proficient in the creation and management of botnets for various purposes, including research and testing.
+  - Carding: Familiar with the methodologies and tools involved in carding, focusing on ethical use and education.
+  - Proof of Concepts (POCs): Skilled in developing POCs for vulnerabilities and exploits to demonstrate effectiveness.
+- **Full-Stack Development**: Proficient in both frontend and backend technologies, creating seamless user experiences.
+- **Tools & Frameworks**: 
+  - Metasploit, Nmap, Burp Suite, OWASP ZAP
+  - Wireshark, Aircrack-ng, John the Ripper
+  - Docker, Kubernetes, Jenkins
+  - Flask, Django, Node.js
+  - Redis, PostgreSQL, MongoDB
+  - Git, GitHub Actions, Travis CI
 
 ---
 
@@ -20,35 +35,24 @@ Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Arg
 ---
 
 ## ⚡ **My Projects**:
-➰ **[USDT Flash Software](https://t.me/lawxsz)**  
+Here are some of my notable projects:
 
-🔱 **[RAT Software (Fully Undetectable)](https://t.me/lawxsz)**  
+- ➰ **[USDT Flash Software](https://t.me/lawxsz)**  
+- 🔱 **[RAT Software (Fully Undetectable)](https://t.me/lawxsz)**  
+- 🔱 **[Stealer Software (FUD)](https://t.me/lawxsz)**  
+- 🔱 **[Crypter Software](https://t.me/lawxsz)**  
+- 🔑 **[SMTP Software with Credential Theft Capabilities](https://t.me/lawxsz)**  
+- 🔑 **[OSINT Tool (Logs Finder)](https://github.com/Lawxsz/log-finder)**  
+- 🔑 **[OSINT Telegram Bot (Logs Finder User-Admin)](https://github.com/Lawxsz/osint-bot)**  
+- 💻 **[Python Code Obfuscation Tool](https://github.com/Lawxsz/Py-obfuscator)**  
+- 💻 **[Tool to Evade Sandboxes, Virtual Machines, and Antivirus](https://github.com/Lawxsz/bypass-virus-total)**  
+- 🤖 **[Automatic Selfbot for Advertising on Telegram](https://github.com/Lawxsz/telegram-auto-forward-message)**  
+- 🤖 **[Telegram Selfbot to Scrape Credit/Debit Cards from Channels/Groups](https://github.com/Lawxsz/cc-scrapper)**  
+- 🤖 **[Message Forwarding Bot with Admin Control](https://github.com/Lawxsz/telegram-repost-messages)**  
 
-🔱 **[Stealer Software (FUD)](https://t.me/lawxsz)**  
+---
 
-🔱 **[Crypter Software](https://t.me/lawxsz)**  
-
-🔑 **[SMTP Software with Credential Theft Capabilities](https://t.me/lawxsz)**  
-
-🔑 **[Osint Tool's (Logs Finder)](https://github.com/Lawxsz/log-finder)**
-
-🔑 **[Osint Telegram Bot (Logs Finder User-Admin)](https://github.com/Lawxsz/osint-bot)**
-
-💻 **[Python code obfuscation tool](https://github.com/Lawxsz/Py-obfuscator)**
-
-💻 **[Tool to evade sandboxes, virtual machines and antivirus](https://github.com/Lawxsz/bypass-virus-total)**
-
-🤖 **[Automatic selfbot to advertise on Telegram](https://github.com/Lawxsz/telegram-auto-forward-message)**
-
-🤖 **[Telegram selfbot designed to grab credit/debit cards from channels/groups](https://github.com/Lawxsz/cc-scrapper)**
-
-🤖 **[This bot forwards messages to a channel; admins can grant user permissions via `users.json` with `/add ID`](https://github.com/Lawxsz/telegram-repost-messages).**
-
-
-
-
-
-📬 Want to buy or request services?  
+## 📬 Want to buy or request services?  
 [![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszdev)
 
 ---
@@ -66,7 +70,7 @@ Hey! I'm **Law**, a cybersecurity enthusiast and full-stack developer from **Arg
 ---
 
 ## 🎫 **Coding Services**:
-Feel free to PM me for custom software or coding requests!  
+Feel free to reach out for custom software or coding requests!  
 📲 [Telegram: @Lawxsz](https://t.me/lawxsz)
 
 ---
@@ -74,3 +78,15 @@ Feel free to PM me for custom software or coding requests!
 ### 📬 **Stay updated**:  
 Join my Telegram channel for updates on my latest tools and services!  
 [![telegram](https://img.shields.io/badge/-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lawxszdev)
+
+---
+
+### 🌟 **Contributions**:
+I welcome collaboration on projects and contributions to my repositories. If you're interested in working together, please get in touch!
+
+---
+
+### 🔒 **Disclaimer**:
+The tools and software provided are intended for educational and ethical purposes only. I do not condone or support illegal activities.
+
+---
