@@ -31,8 +31,8 @@ Check my website! ⭐ https://prysmax.xyz
 
 ## 🌐 **Connect with me**:
 - **Telegram**: [@Lawxsz](https://t.me/Lawxsz)
-- **Discord**: `lawxszoficialdisxd`
-- **Signal**: `leydleyes.69`
+- **Discord**: `lawxszoficialx12`
+- **Signal**: `lawxsz.01`
 
 ---
 
