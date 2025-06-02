@@ -4,7 +4,7 @@
 
 Hello! I'm **Law**, a passionate cybersecurity enthusiast and full-stack developer based in **Argentina**. I focus on creating innovative tools and software aimed at enhancing community security and efficiency. With a keen interest in **penetration testing**, **botnets**, and **exploit development**, I continuously strive to expand my knowledge and refine my skill set. 🚀
 
-Check my website! ⭐ https://prysmax.fun
+Check my website! ⭐ https://prysmaxs.top
 
 ### 🛠️ **Tech Stack**:
 - **Programming Languages**: `C++`, `C#`, `Python`, `JavaScript`, `PHP`, `Bash`
